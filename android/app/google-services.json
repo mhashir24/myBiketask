@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060290012894",
+    "project_id": "testpush-3254f",
+    "storage_bucket": "testpush-3254f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060290012894:android:f28be8bf6bfe0767eec44f",
+        "android_client_info": {
+          "package_name": "com.mybiketask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060290012894-fiooi4lj9tpjr530u9g6pp7jar2apd83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06Axry3JG0qK-UnFp2daELC7UFA_1VRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060290012894-fiooi4lj9tpjr530u9g6pp7jar2apd83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
